@@ -1,0 +1,8 @@
+{
+  "extends": ["next", "prettier"],
+  "plugins": ["prettier"],
+  "parserOptions": {
+    "sourceType": "module",
+    "ecmaVersion" : 2020
+  }
+}
